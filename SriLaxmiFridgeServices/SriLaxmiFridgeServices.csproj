@@ -285,6 +285,7 @@
     <Content Include="fonts\roboto\roboto-regular-webfont.woff" />
     <Content Include="fonts\roboto\roboto-regular-webfont.woff2" />
     <Content Include="fonts\roboto\roboto-regular-webfontd41d.eot" />
+    <None Include="Properties\PublishProfiles\SriLaxmiRServices.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
